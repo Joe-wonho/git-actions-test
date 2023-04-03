@@ -1,5 +1,5 @@
 name: client
-# 연습하기
+# 연습하기2
 # 1. Source: 특정 브랜치에 코드가 커밋되면
 on:
   push:
